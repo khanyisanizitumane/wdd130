@@ -35,10 +35,9 @@
 /* Activity 2 styles */ 
 .content2 {
   /* This is the parent of the activity 2 boxes. */
-  display: grid;
-  margin-top: -20px; margin-left: -50px;margin-bottom:-80px;margin right:-40px
+  margin-top, margin-left: 50px;
   
-
+  
 
 }
 .red2 {

@@ -128,10 +128,10 @@ footer.social img{
 }
 .river-card,.camping-card,.rapids-card{
     margin: 200px;
-    border-radius: 10px solid #d9c2a3 ;  
+    border-radius: 10px #d9c2a3 ;  
 }
 .card-img{
-    border: 10px solid #d9c2a3;
+    border: 10px  #d9c2a3;
 }
 main section img{
     box-sizing: border-box;

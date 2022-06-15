@@ -171,3 +171,45 @@ nav a:hover {
   border-top: 1px solid;
   border-right: 1px solid;
 }
+.ecommerce-img{
+  width: 300px;
+
+}
+.price-img{
+  width: 300px;
+}
+.laptop-img{
+  width: 300px;
+
+}
+.price-img,.laptop-img{
+  margin: 200px;
+  border-radius: 20px;
+  border-color: #d9c2a3;
+  width:33%; 
+} 
+.laptop-img{
+  position: relative;
+  bottom:900px ;
+  left: 400px;
+}
+.price-img{
+  position: relative;
+  bottom: 150px;
+
+}
+.urban-img{
+  width: 300px;
+  position: relative;
+
+}
+.art-img{
+  width:300px; 
+  position: relative;
+}
+.b2b-img{
+  width: 400px;
+  position: relative;
+  bottom: 500px;
+  left: 400px;
+}

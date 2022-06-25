@@ -44,7 +44,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 h2 {
   text-align: center;
+
 }
+
 hr {
   height: 3px;
   margin: 35px 0;
@@ -177,9 +179,11 @@ nav a:hover {
 }
 .price-img{
   width: 300px;
+  
 }
 .laptop-img{
   width: 300px;
+  height: 290px;
 
 }
 .price-img,.laptop-img{
@@ -187,10 +191,11 @@ nav a:hover {
   border-radius: 20px;
   border-color: #d9c2a3;
   width:33%; 
+  height: 290px;
 } 
 .laptop-img{
   position: relative;
-  bottom:900px ;
+  bottom:640px ;
   left: 400px;
 }
 .price-img{
@@ -212,4 +217,19 @@ nav a:hover {
   position: relative;
   bottom: 500px;
   left: 400px;
+}
+.chickens{
+  width: 33%;
+  position: relative;
+  bottom: 800px;
+  left: 250px;
+  height: 290px; 
+
+}
+.glasswater{
+  width: 33%;
+  position: relative;
+  bottom: 1087px;
+  left: -140px;
+  height: 290px; 
 }
